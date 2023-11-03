@@ -2,7 +2,7 @@
 title: 'Treatment Number Four'
 description: 'Robert, and Tonia woke up to get ready to make the trip'
 pubDate: 'Oct 11, 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/rain-sunrise.jpg'
 ---
 
 ### Early Monday morning

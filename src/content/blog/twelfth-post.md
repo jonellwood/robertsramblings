@@ -2,7 +2,7 @@
 title: 'Time for treatment number three'
 description: 'Robert and Tonia arrived back in Aiken'
 pubDate: 'Sep 28 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/blog-placeholder-2.jpg'
 ---
 
 ### Quick turn around to leave again

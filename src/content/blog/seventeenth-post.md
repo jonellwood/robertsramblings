@@ -7,11 +7,11 @@ heroImage: '/rain-sunrise.jpg'
 
 ### Early Monday morning
 
-### Morning Preparations
+#### Morning Preparations
 
 The early morning of Monday, October 9, 2023, Robert, and Tonia woke up to get ready to make the trip from Bonneau to Downtown Charleston for Robert’s fourth chemotherapy appointment.
 
-### Traffic Woes
+#### Traffic Woes
 
 Robert was thinking they did not need to leave as early as they usually did since today was Columbus Day, but he was wrong. It doesn’t matter what day or time it is there will always be traffic in this city. Robert and Tonia left at 0630 hours to make the 0800-hour appointment. They arrived at the parking garage at 0740 hours, so they had a little time to spare and did not have to rush to get checked in.
 
@@ -19,7 +19,7 @@ After the car was parked, they walked to the cancer center and went to the secon
 
 Robert walked up to the check in counter in the infusion center and provided his information. The lady at the counter checked Robert into all three appointments and asked if he knew where to go first, Robert said he did. The lady also asked Robert if he needed his parking ticket validated, Robert stated he did and handed her the ticket so it could be stamped and initialed.
 
-### Waiting for Labs
+#### Waiting for Labs
 
 Once Robert was done at that counter, he walked to the back to check in again at the infusion desk since he would have his labs taken back there since he has a port. Robert provided his information again and the nurse said he would be called back shortly, and he could have a seat in the waiting area. Robert and Tonia walked down the hallway but there were no chairs, so they just stood by the window.
 
@@ -35,7 +35,7 @@ The nurse proceeded to fill all the vials she needed with a limited amount of ta
 
 Robert walked to get Tonia and tell her they had to go to the front to wait to be seen by the doctor. Robert and Tonia went to the other waiting area where they were able to find chairs while they waited for Robert to be called.
 
-### Treatment Anxiety
+#### Treatment Anxiety
 
 As Robert was waiting, he was feeling anxious and not wanting to have the treatment today since he had felt better than he had in months. Robert knew as soon as the treatment started his good feeling would go away and he would be back feeling nauseated, sick, tired, fatigued, and having bone pain. Robert was trying not to think about it, but it was difficult since it was almost time to start. Tonia was able to calm him a little just by letting him know she was there.
 
@@ -43,11 +43,11 @@ The tech called Robert’s name to take his vitals. Robert walked into the room 
 
 Dr. Greenwell walked in with the pharmacist and some other lady that he said was taking notes.
 
-### Health Assessment
+#### Health Assessment
 
 Dr. Greenwell asked Robert how he was doing, Robert said he was feeling decent besides his ribs and a little coughing but a lot better than he was. Dr. Greenwell checked Robert’s neck, armpits, groin, and ankles feeling for any possibly swollen lymph nodes. When he was done Robert asked him if anything felt strange, he said no.
 
-### Light-hearted Medication Discussions
+#### Light-hearted Medication Discussions
 
 Dr. Greenwell asked Robert what medication he had been taking to try and control the cough. Robert told him everything he was prescribed in the last two visits but told him it doesn’t really help since he doesn’t have allergies.
 
@@ -55,7 +55,7 @@ Tonia and the pharmacist found that to be funny for some reason, but Robert stil
 
 Robert made a golf course joke for Dr. Greenwell, never seeing him or being at the hospital.
 
-### CT Scan Results and Plan
+#### CT Scan Results and Plan
 
 Dr. Greenwell told Robert he looked at his CT scans and his lungs had some abnormalities in them, but he was not that concerned about it at this point. Dr. Greenwell’s primary concern is the treatment of Robert’s lymphoma, so he wants to stay on course with the R-CHOP treatment. Dr. Greenwell told Robert he is going to order a whole-body PET scan a day before his next treatment so they can see exactly what is going on and how the chemotherapy has been affecting the lymph nodes all around his body.
 
@@ -65,13 +65,13 @@ Dr. Greenwell told Robert he was cleared to receive treatment today and he would
 
 Robert asked Tonia what she wanted to do, she said they could walk to the car to put some stuff in there. While walking to the car Robert said his appointments usually run together and are one after another. Robert asked Tonia if she was hungry, she said a little. Robert was a little hungry too and he knew this would be the last enjoyable chewing for the next few days.
 
-### Good thing there is a Subway
+#### Good thing there is a Subway
 
 After they put the items in the car, they walked to the main hospital to go to the cafeteria. The time was 1040 hours, and the cafeteria was closed from 1000 to 1100 hours. Tonia said good thing there is a Subway. She said you like Subway so that’s good. Robert asked if Subway was good for her, she said yeah, she likes subway too. Tonia ordered a number 10 which was a turkey, ham, and bacon sub. Robert ordered his normal roasted turkey. Robert and Tonia both got cooler ranch Doritos to smash on to their subs for that extra crunch. Tonia also got three chocolate chip cookies that looked delicious. Robert and Tonia ate the sandwiches in the cafeteria.
 
 When they finished eating it was only 1115 hours, so they decided to walk around for a bit before returning to the infusion center. They walked the block around the main hospital before returning to the cancer center. Robert advised the nurse at the infusion center counter that he was back and would be in the waiting room.
 
-### Infusion Chair 1
+#### Infusion Chair 1
 
 A few moments later Robert was called up and advised to follow the nurse to his infusion chair. Tonia and Robert followed the nurse to the big infusion room with the chairs lined up along the wall and across from each other. Robert took a seat in infusion chair 1. This chair was in the community room. Robert had private rooms for the first three treatments but not this time. Robert didn’t care where he was really but was a little disappointed there was no TV. It’s hard to sit anywhere for four hours with nothing to do so a TV helps time go by, but he and Tonia were discussing crafting ideas, so he had plenty to do. The nurse went and got Robert and Tonia a warm blanket as soon as they both sat down.
 
@@ -81,7 +81,7 @@ After Robert took all the medication she went and got the Rituximab. The nurse a
 
 The nurse asked Robert what he did for exercise, Robert said he liked to run when he could. The nurse said she thought he was a bike rider and the other nurse thought he was a swimmer. Robert thought that was funny that they had done all that judging in 5 minutes. Robert thought he could just be lacking body fat from having cancer, just like most people in the chairs around him. It was a weird conversation Robert thought.
 
-### Ginger Ale Request
+#### Ginger Ale Request
 
 Once the Rituximab was finished there was a 30-minute observation period before the next drug was administered. The next drug would be Cyclophosphamide that is hung and dispensed through the IV. Each time the treatment goes the same way and in the same order. The Cyclophosphamide was followed by Doxorubicin Hydrochloride that is given through two huge syringes into the IV that is pushed by the nurse. This time Robert didn’t talk much kind of like last time because he was not feeling good and was dreading this red devil taking its effect on his body. The nurse sat next to him in her gown and pushed the drug and when it was completed Robert started feeling nauseated. Robert mentioned he wished he would have got a ginger ale from the guy that was walking around with the cart.
 
@@ -93,11 +93,11 @@ When the Oncovin was finished the nurse asked Robert what side he wanted his Neu
 
 Robert and Tonia walked to the main lobby to check out and set up the next appointment. The guy said the next appointment would be October 27, 2023. Robert said that was not a good day because Tonia had plans and he did not want to be sick for Halloween. Robert asked if it could be pushed to the end of that week. The guy asked what day Robert asked if the infusion can be on Thursday, November 2. 2023, and PET scan the day before on Wednesday, November 1, 2023. The guy said that would be fine as he typed on the computer entering the information.
 
-### After the Treatment
+#### After the Treatment
 
 Once that was all figured out Tonia and Robert walked out of the cancer center from a successful fourth treatment. Robert was feeling really tired and fatigued but was tired of sitting down. He knew he was about to have to sit in the car for two and half hours for the drive back to Aiken. It is weird to feel tired but also be tired of sitting. Robert thought to himself he would not want to stand either so what could he do to help him rest. This was the stupid thought Robert was having as they were walking to the car because he really didn’t want to sit.
 
-### Jedburg is real!
+#### Jedburg is real!
 
 Robert opened the driver door for Tonia since she was driving back to Aiken. Robert walked to the passenger side and reluctantly fell into the passenger seat.
 
@@ -107,7 +107,7 @@ Tonia said she could wait as they continued west on 26. When Tonia got to the Je
 
 Tonia stopped at the Spinx and asked Robert if he wanted anything. Robert told her he was good but thanked her anyways. Tonia went in and of course got Robert water because he needed to drink fluids. Tonia got herself water as well.
 
-### Soda, burps, and pit stops
+#### Soda, burps, and pit stops
 
 On the way home Tonia needed to burp and she was drinking a bunch of water, so she had to stop and use the restroom a few times during the drive back. When she stopped for a restroom, she bought a carbonated drink to try and help her burp. Drinking the soda was just more fluid so the restroom stops were continuing.
 
@@ -121,12 +121,12 @@ Robert put some of the items they bought from Goodwill in the garage and then he
 
 Robert eventually got up and went to the living room to sit and spend time with Tonia. Tonia made Robert a bowl of soup. Robert was craving Chinese food for some odd reason knowing good and well he wouldn’t be able to keep it down especially on the day of treatment.
 
-### Packing and Uncertainty
+#### Packing and Uncertainty
 
 Tonia made herself some pizza rolls which looked delicious and of course Robert couldn’t turn down a pizza roll so he had a couple of those along with his soup. Tonia’s mom told Tonia that Jax had a fever and was not feeling good. With Jax being sick Robert knew he would have to leave the house since he cannot take the chance of getting sick.
 
 Robert packed a bag and Tonia said they would see how Jax was feeling in the morning before any plans were made.
 
-### The perfect way to end the day?
+#### The perfect way to end the day?
 
 Robert and Tonia laid on the couch and watched TV until they ultimately fell asleep.

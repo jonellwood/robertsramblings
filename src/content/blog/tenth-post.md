@@ -2,7 +2,7 @@
 title: 'Travel to Weekend Escape'
 description: 'Robert made the decision to take his chances with his port to allow himself a weekend getaway '
 pubDate: 'Sep 25 2023'
-heroImage: '/blog-placeholder-5.jpg'
+heroImage: '/plane.jpg'
 ---
 
 ### ESCAPE!!!

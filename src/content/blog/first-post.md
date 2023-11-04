@@ -2,7 +2,7 @@
 title: 'The beginning'
 description: 'How this journey started'
 pubDate: 'Jul 08 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/storm-clouds.jpg'
 ---
 
 ### June 2023

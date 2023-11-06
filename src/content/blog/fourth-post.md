@@ -2,7 +2,7 @@
 title: 'Preparations for Treatment'
 description: 'Robert knew his diagnosis along with the course of treatment'
 pubDate: 'Sep 12 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/squirrel.webp'
 ---
 
 ### Getting the ball rolling

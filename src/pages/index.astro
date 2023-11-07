@@ -1,0 +1,33 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<h1>👋 Hello, Reader!</h1>
+			<p>
+				Welcome to my site. This is a place where I can post about my lymphoma journey. Please feel free to read through and if anything is helpful or relevant to your journey - then all the better.
+			</p>
+			<p>
+				I am writing these posts in "real-time" and they reflect my thoughts and feelings at the time. 
+			</p>
+			<p>What you might find while reading through my page:</p>
+			<ul>
+				<li>Details about what is going on in my life that might make you feel uncomfortable.</li>
+				<li>Information on how you can learn more about Lymphoma</li>
+				<li>Inspiration on getting more involved and helping others on a similar journey as me.</li>
+				<li>Probably some other stuff too that I have not thought of yet</li>
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>

@@ -2,7 +2,7 @@
 title: Robert's search for normal
 description: 'After Robert received the first treatment he felt different as soon as he was done'
 pubDate: 'Sep 21 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/normal-is-out-there.jpg'
 ---
 
 ### Robert knows normal is out there

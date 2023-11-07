@@ -2,7 +2,7 @@
 title: 'Another trip to Charleston for a second treatment'
 description: 'It was three weeks later and time to make the trip to Charleston for the second chemotherapy appointment'
 pubDate: 'Sep 22 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/long-road.jpg'
 ---
 
 ### The Second Treatment

@@ -2,7 +2,7 @@
 title: 'The three weeks following the second treatment'
 description: 'That evening upon returning Robert, his girlfriend, and his dad decorated for the birthday party that was planned for tomorrow'
 pubDate: 'Sep 23 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/wild-fire.jpg'
 ---
 
 ### Treatment affects everyone
